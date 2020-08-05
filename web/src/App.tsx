@@ -1,11 +1,8 @@
 import React from 'react';
+import Landing from './pages/Landing';
 
 function App() {
-  return (
-    <div className='App'>
-      <h1>Proffy App</h1>
-    </div>
-  );
+  return <Landing />;
 }
 
 export default App;
